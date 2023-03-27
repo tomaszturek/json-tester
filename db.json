@@ -6,7 +6,7 @@
         "campaign_name": "test display campaign",
         "clicks": "10",
         "revenueUsd": "10.5500",
-        "subid1": "",
+        "subid1": "a",
         "subid2": "second-subid",
         "subid3": "third-subid",
         "subid4": "fourth-subid",
